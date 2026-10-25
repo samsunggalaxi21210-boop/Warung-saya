@@ -1,0 +1,5 @@
+KASIR WARUNG - PAKET PWA
+Isi: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
+Unggah SEMUA file ini (tanpa folder tambahan) ke Netlify atau GitHub Pages.
+Setelah situs hidup, buka alamatnya di Chrome/Safari lalu pilih "Instal aplikasi" / "Tambahkan ke Layar Utama".
+Saat mengganti index.html dengan versi baru, ubah angka versi di sw.js (contoh: kasir-warung-v1 menjadi kasir-warung-v2).
